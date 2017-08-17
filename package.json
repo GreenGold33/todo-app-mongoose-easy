@@ -21,6 +21,7 @@
     "pug": "^2.0.0-rc.3"
   },
   "devDependencies": {
+    "bower": "^1.8.0",
     "nodemon": "^1.11.0"
   }
 }
